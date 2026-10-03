@@ -1,0 +1,10 @@
+{
+  "version": "1.0.2",
+  "changes": [
+    "Background video support (.webm)",
+    "Rules panel with title and description",
+    "German language",
+    "Friendlier texts, clearer loading status"
+  ],
+  "download": "https://keymaster.fivem.net/asset-grants"
+}
