@@ -1,0 +1,12 @@
+{
+  "version": "1.0.3",
+  "changes": [
+    "RedEye styled skill check and confirm dialog (switchable in config)",
+    "German language",
+    "RPC handlers can now be registered from any resource",
+    "Security and stability fixes (routing buckets, vehicle spawns, callbacks, stash)",
+    "Update check in the server console",
+    "Now free and open source"
+  ],
+  "download": "https://keymaster.fivem.net/asset-grants"
+}
